@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "15ace21d-2d81-4bb1-a785-0bc1df169326",
+		"name": "ExamenFinalRPS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31164361"
+	},
+	"item": [
+		{
+			"name": "getproducto",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "postproducto",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request Copy 2",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
