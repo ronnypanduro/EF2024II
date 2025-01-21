@@ -1,4 +1,4 @@
-package msventa.msventa;
+package msventa.msventa.VentaModel;
 
 import java.util.ArrayList;
 import java.util.List;

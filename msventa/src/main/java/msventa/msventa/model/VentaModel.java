@@ -1,4 +1,5 @@
-package msventa.msventa.model; 
+package msventa.msventa.Model;
+
 import java.lang.annotation.Inherited;
 
 import javax.annotation.processing.Generated;
