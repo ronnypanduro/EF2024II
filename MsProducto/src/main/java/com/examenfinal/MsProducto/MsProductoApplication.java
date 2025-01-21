@@ -1,13 +1,13 @@
-package unu.EF;
+package com.examenfinal.MsProducto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EfApplication {
+public class MsProductoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EfApplication.class, args);
+		SpringApplication.run(MsProductoApplication.class, args);
 	}
 
 }

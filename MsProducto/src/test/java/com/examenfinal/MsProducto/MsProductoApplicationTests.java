@@ -1,10 +1,10 @@
-package unu.EF;
+package com.examenfinal.MsProducto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EfApplicationTests {
+class MsProductoApplicationTests {
 
 	@Test
 	void contextLoads() {
